@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Интернет магазин аксессуаров</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <title></title>
+  </head>
+  <header>
+    <div class="celoe">
+      <nav class="one">
+        <div class="qpick"><img src="img/QPICKqpick.svg" href="#"></div>
+        <div class="logophone"><img src="img/Vectorlogphone.svg"></div>
+        <ul class="topmenu">
+          <li><a href="#">Выбрать модель телефона<i class="fa fa-angle-down"></i></a>
+            <ul class="submenu">
+              <li><a href="#">Apple</a>
+                <ul class="sub-submenu">
+                  <li><a href="#" class="selectable">iPhone 12</a></li>
+                  <li><a href="#" class="selectable">iPhone 12 Max</a></li>
+                  <li><a href="#" class="selectable">iPhone 13</a></li>
+                  <li><a href="#" class="selectable">iPhone 13 Max</a></li>
+                  <li><a href="#" class="selectable">iPhone 13 Pro Max</a></li>
+                  <li><a href="#" class="selectable">iPhone 14</a></li>
+                </ul>
+              </li>
+              <li><a href="">INOI</a></li>
+              <li><a href="">Nokia<i class="fa fa-angle-down"></i></a></li>
+              <li><a href="">Oppo</a></li>
+              <li><a href="">Xiaomi</a></li>
+              <li><a href="">Realme</a></li>
+              <li><a href="">Samsung</a></li>
+              <li><a href="">Sony</a></li>
+              <li><a href="">Vivo</a></li>
+            </ul>
+          </li>
+        </ul>
+        <script>
+          document.addEventListener("DOMContentLoaded", function() {
+          const selectableItems = document.querySelectorAll(".selectable");
+          selectableItems.forEach(function(item) {
+            item.addEventListener("click", function() {
+              selectableItems.forEach(function(i) {
+                i.classList.remove("selected");
+              });
+              this.classList.add("selected");
+            });
+          });
+        });
+        </script>
+        <div class="Like-Korzina">
+          <div class="like"><img src="img/like.svg"></div>
+          <div class="korzina"><img src="img/Vectorkorzina.svg"></div>
+        </div>
+      </nav>
+    </script>
+    </div>
+  </header>
+  <body>
+    <div class="conteiner">
+      <div class="background">
+        <img src="img/background.svg">
+        <div class="mobile"><img src="img/mobile.svg"></div>
+      </div>
+      <div class="line1">
+        <div class="case">Чехлы</div>
+        <div class="cards card1">
+          <img src="img/silvercase.svg">
+          <div class="glass"><p>Стеклянные</p></div>
+        </div>
+        <div class="cards card2">
+          <img class="yellowcase" src="img/yellowcase.svg">
+          <div class="silicon"><p>Силиконовые</p></div>
+        </div>
+        <div class="cards card3">
+          <img class="blackcase" src="img/blackcase.svg">
+          <div class="leather"><p>Кожаные</p></div>
+        </div>
+      </div>
+      <div class="line2">
+        <div class="case">Наушники</div>
+          <div class="cards card4">
+          <img class="headphone heaphone4" src="img/Imageheadphone.svg">
+          <div class="NamePhone NamePhone4"><p>Apple BYZ S852I</p></div>
+          <div class="priceHeaPhone priceHeaPhone4"><span>2927₸</span></div>
+          <div class="priceHeaPhone priceHeaPhone41"><span>3527₸</span></div>
+          <div class="grade grade4"><span>4.7</span></div>
+          </div>
+          <div class="cards card5">
+            <img class="headphone heaphone5" src="img/Imageearpods.svg">
+            <div class="NamePhone NamePhone5"><p>Apple Earpods</p></div>
+            <div class="priceHeaPhone priceHeaPhone5"><span>2327₸</span></div>
+            <div class="grade grade5"><span>4.5</span></div>
+        </div>
+        <div class="cards card6">
+            <img class="headphone heaphone6" src="img/Imageearpods2.svg">
+            <div class="NamePhone NamePhone6"><p>Apple Earpods</p></div>
+            <div class="priceHeaPhone priceHeaPhone6"><span>2327₸</span></div>
+            <div class="grade grade6"><span>4.5</span></div>
+        </div><br>
+        <div class="cards card7">
+          <img class="headphone heaphone7" src="img/Imageheadphone.svg">
+          <div class="NamePhone NamePhone7"><p>Apple BYZ S852I</p></div>
+          <div class="priceHeaPhone priceHeaPhone7"><span>2927₸</span></div>
+          <div class="grade grade7"><span>4.7</span></div>
+      </div>
+        <div class="cards card8">
+          <img class="headphone heaphone8" src="img/Imageearpods.svg">
+          <div class="NamePhone NamePhone8"><p>Apple Earpods</p></div>
+          <div class="priceHeaPhone priceHeaPhone8"><span>2327₸</span></div>
+          <div class="grade grade8"><span>4.5</span></div>
+        </div>
+        <div class="cards card9">
+          <img class="headphone heaphone9" src="img/Imageearpods2.svg">
+          <div class="NamePhone NamePhone9"><p>Apple Earpods</p></div>
+          <div class="priceHeaPhone priceHeaPhone9"><span>2327₸</span></div>
+          <div class="grade grade9"><span>4.5</span></div>
+        </div>
+      </div>
+      <div class="line3">
+        <div class="case">Беспроводные наушники</div>
+        <div class="cards card10">
+          <img class="headphone heaphone10" src="img/airpods.svg">
+          <div class="NamePhone Namephone10"><p>Apple Airpods</p></div>
+          <div class="priceHeaPhone priceHeaPhone 10"><span>9527₸</span></div>
+          <div class="grade grade10"><span>4.7</span></div>
+        </div>
+        <div class="cards card11">
+          <img class="headphone heaphone11" src="img/gerlaxgh-04.svg">
+          <div class="NamePhone NamePhone10"><p>GERLAX GH-04</p></div>
+          <div class="priceHeaPhone priceHeaPhone11"><span>6527 KZT</span></div>
+          <div class="grade grade11"><span>4.7</span></div>
+        </div>
+        <div class="cards card12">
+          <img class="headphone headphone12" src="img/borofoneBo04.svg">
+          <div class="NamePhone Namephone12"><p>BOROFONE BO4</p></div>
+          <div class="priceHeaPhone priceHeaPhone12"><span>7527 KZT</span></div>
+          <div class="grade grade12"><span>4.7</span></div>
+        </div>
+    </div>
+    <footer>
+      <div class="conteiner footer">
+        <div class="">
+        <img class="q2" src="img/QPICKqpick.svg">
+      </div>
+      <div class="li li1">
+        <div class="like2"><p>Избранное</p></div>
+        <div class="korzina2"><p>Корзина</p></div>
+        <div class="contacts2"><p>Контакты</p></div>
+      </div>
+      <div class="li li2">
+        <div class="ifservice"><p>Условия сервиса</p></div>
+          <div class="planet">
+            <img class="language language1" src="img/language.svg">
+          </div>
+          <div class="language language2">&nbsp;<a class="kaz" onclick="changeColor(this)" href="kazah.html">Каз</a> &nbsp&nbsp;<a class="rus active" onclick="changeColor(this)" href="index.html">Рус</a>&nbsp;&nbsp;  <a class="eng" onclick="changeColor(this)" href="english.html">Английский</a></div>
+          <script>
+            function changeColor(element) {
+                const links = document.querySelectorAll('.kaz, .rus, .eng');
+                links.forEach(link => {
+                    link.classList.remove('active');
+                    link.classList.add('inactive');
+                });
+                element.classList.remove('inactive');
+                element.classList.add('active');
+            }
+        </script>
+      </div>
+      <div class="messenger">
+        <img class="messenger1 vk" src="img/vk.svg">
+        <img class="messenger1 instagram" src="img/instagram.svg">
+        <img class="messenger1 tg" src="img/tg.svg">
+        <img class="messenger1 whatsapp" src="img/whatsapp.svg">
+      </div>
+      </div>
+    </footer>
+    <script>
+      $(".five li ul").hide();
+      $(".five li:has('.submenu')").hover(
+      function(){
+      $(".five li ul").stop().fadeToggle(300);}
+      );
+    </script>
+  </body>
+</html>

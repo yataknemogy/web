@@ -1,0 +1,619 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+.celoe{
+  padding-left: 165px;
+}
+.conteiner{
+  width: 1500px;
+  margin: 0 auto;
+}
+body{
+  background-color: #EAEAEA;
+}
+.qpick{
+  margin-left: 165px;
+  padding-top: 10px;
+}
+.logophone{
+  margin-left: 300px;
+  position: absolute;
+  top: 6px;
+  padding-top: 10px;
+}
+.select-button{
+  padding: 10px;
+}
+.Like-Korzina{
+  position: absolute;
+  top:-9px;
+  right: 165.11px;
+  padding-top: 10px;
+}
+.like{
+
+}
+.korzina{
+  margin-top: -44px;
+  margin-left: 75px;
+}
+.banner{
+
+}
+.background{
+  margin-top: 50px;
+  margin-left: 72px;
+  width: 1350px;
+}
+.background img{
+  width: 1300px;
+}
+.mobile img{
+  margin-top: -350px;
+  margin-left: 700px;
+  width: 500px;
+  height: 300px;
+  flex-shrink: 0;
+}
+.mobile{
+  display: block;
+  position: absolute;
+  margin-top: -17.3px;
+}
+.case{
+  color: #838383;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 105px;
+  padding-top: 15px;
+}
+.cards{
+  border-radius: 30px;
+  background: #FFF;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+  width: 350px;
+  height: 407.647px;
+  flex-shrink: 0;
+  display:inline;
+  float:left;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.card1{
+
+}
+.card4{
+ 
+}
+.line1{
+  position: relative;
+}
+.line2{
+  display:inline;
+  float: left;
+  position: relative;
+}
+.card7{
+ 
+}
+.card10{
+
+}
+.line3{
+  display:inline;
+  float: left;
+  position: relative;
+}
+.cards img{
+  padding-left: 100px;
+  padding-top: 25px;
+}
+.cards p{
+  color: #1C1C27;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 120px;
+}
+.glass{
+  margin-left: 25px;
+}
+.silicon{
+  margin-left: 13px;
+}
+.leather{
+  margin-left: 15px;
+}
+.headphone{
+  margin-left: -35px;
+}
+.NamePhone{
+  margin-left: -100px;
+  margin-top: 35px;
+}
+.priceHeaPhone{
+  color: #FFA542;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 271px;
+  margin-top: 45px;
+}
+.NamePhone5{
+  margin-left: -100px;
+  margin-top: 35px;
+}
+.NamePhone6{ 
+  margin-left: -100px;
+  margin-top: 90px;
+}
+.priceHeaPhone6{
+  margin-left: 271px;
+  padding-top: 11px;
+}
+.NamePhone9{
+  margin-left: -100px;
+  margin-top: 90px;
+}
+.priceHeaPhone9{
+  margin-left: 271px;
+  padding-top: 11px;
+}
+.priceHeaPhone41{
+  color: #FFCE7F;
+  font-family: Montserrat;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 278px;
+  margin-top: 0px;
+  text-decoration-line: line-through;
+}
+.grade{
+  color: #838383;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.grade4{
+  margin-left: 55.29px;
+}
+.grade5{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade6{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade7{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade8{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade9{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade10{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.grade11{
+  margin-left: 55px;
+  margin-top: 16px;
+}
+.grade12{
+  margin-left: 55.29px;
+  margin-top: 16px;
+}
+.priceHeaPhone11{
+  margin-left: 249px;
+ }
+.priceHeaPhone12{
+  margin-left: 249px;
+}
+.bgrounds{
+  padding-left: 350px;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+  border-radius: 30px 30px 0px 0px;
+  background: #FFF;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+  margin-top: 1850px;
+  margin-left: 100px;
+  width: 1263px;
+  bottom: 0px;
+  height: ;
+}
+.q2{
+  margin-left: 29px;
+  margin-top: 29px;
+}
+.li{
+  color: #000;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.language1{
+  position: absolute;
+  bottom: -1280px;
+}
+.language a{
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  display: inline-block;
+  margin-right: -7px;
+  cursor: pointer;
+}
+.language2{
+  width: 400px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 25px;
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.messenger{
+  margin-right: 26.9px;
+  margin-top: 29px;
+}
+.ifservice{
+  margin-top: 29px;
+}
+.dropdown-toggle::before {
+  margin-left: 5px;
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.dropdown-menu {
+  display: none;
+}
+.dropdown-toggle:hover + .dropdown-menu, .dropdown-menu:hover {
+  display: block;
+}
+.sub-submenu {
+  display: none;
+  position: absolute;
+  top: 100%; /* Измените "top" на "100%" /
+  left: 20px;
+}
+
+/ Стили для отображения вложенного подменю только при наведении на соответствующий пункт /
+.submenu > li:hover .sub-submenu {
+  display: block;
+}
+
+/ Скрытие стрелки вложенного подменю по умолчанию /
+.submenu > li .sub-submenu {
+  position: relative;
+}
+
+.submenu > li .sub-submenu i.fa-angle-down {
+  display: none;
+}
+
+/ Отображение стрелки вложенного подменю при наведении /
+.submenu > li:hover .sub-submenu i.fa-angle-right {
+  display: inline;
+}
+/ Стили для стрелки вниз /
+.submenu > li > a::after {
+  content: "\f107"; / Символ стрелки вниз (FontAwesome) /
+  font-family: "FontAwesome";
+  display: inline-block;
+  margin-left: 5px;
+  transition: transform 0.3s; / Анимация для свойства transform /
+}
+
+/ При наведении на li меняем направление стрелки /
+.submenu > li:hover > a::after {
+  transform: rotate(180deg); / Поворачиваем стрелку на 180 градусов (вверх) */
+}
+.topmenu{
+  margin-left: 330px;
+  position: absolute;
+  top: 7px;
+  padding-top: -15px;
+}
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.topmenu a{
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+}
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+.fa {
+  font-family: "FontAwesome";
+  color: inherit;
+  padding-left: 10px;
+}
+.submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+.one ul a {
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.one .submenu {
+  display: none;
+  border-radius: 0px 0px 30px 30px;
+  background: #EAEAEA;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+.one ul li:hover .submenu {
+  display: block;
+}
+.submenu li a {
+  border-bottom: 1px solid rgba(255, 255, 255, .3);
+  color: #1C1C27;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+.fa {
+  font-family: "FontAwesome";
+  display: inline-block;
+  margin-left: 5px;
+  transition: transform 0.4s;
+}
+.topmenu > li:hover .fa.fa-angle-down{
+  transform: rotate(180deg);
+}
+.fa-angle-down {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+
+/* Стили для навигационного меню */
+nav {
+  width: auto;
+  margin: 0 auto 30px;
+}
+
+/* Убираем маркеры у списка */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Стили для элементов верхнего меню */
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+
+/* Стили для ссылок */
+a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  outline: none;
+  font-family: 'Lora', serif;
+  transition: .5s linear;
+}
+
+/* Стили для иконок FontAwesome */
+.fa {
+  font-family: "FontAwesome";
+  color: inherit;
+  padding-left: 10px;
+}
+
+/* Стили для выпадающих подменю */
+.submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+
+
+.one ul a {
+  color: #101010;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  
+}
+
+.one .submenu {
+  display: none;
+  border-radius: 0px 0px 30px 30px;
+  background: #EAEAEA;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+.one ul li:hover .submenu {
+  display: block;
+}
+
+/* Стили для элементов внутри подменю */
+.submenu li a {
+  border-bottom: 1px solid rgba(255, 255, 255, .3);
+  color: #1C1C27;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+/* Стили для элементов верхнего меню */
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+
+/* Стили для элементов верхнего меню */
+.topmenu > li {
+  display: inline-block;
+  margin-right: 20px;
+  position: relative;
+}
+
+.topmenu > li:last-child {
+  margin-right: 0;
+}
+/* Стили для иконок FontAwesome */
+.fa {
+  font-family: "FontAwesome";
+  display: inline-block;
+  margin-left: 5px;
+  transition: transform 0.4s; /* Анимация для свойства transform */
+}
+
+/* При наведении на li меняем направление стрелки */
+.topmenu > li:hover .fa.fa-angle-down{
+  transform: rotate(180deg); /* Поворачиваем стрелку на 180 градусов (вверх) */
+}
+.fa-angle-down {
+  display: inline-block;
+  width: 1em; /* Установите ширину элемента */
+  height: 1em; /* Установите высоту элемента */
+}
+
+
+/* Стили для вложенного подменю */
+.sub-submenu {
+  display: none;
+  position: absolute;
+  top: 100%; /* Измените "top" на "100%" */
+  left: 20px;
+}
+
+/* Стили для отображения вложенного подменю только при наведении на соответствующий пункт */
+.submenu > li:hover .sub-submenu {
+  display: block;
+}
+
+/* Скрытие стрелки вложенного подменю по умолчанию */
+.submenu > li .sub-submenu {
+  position: relative;
+}
+
+.submenu > li .sub-submenu i.fa-angle-down {
+  display: none;
+}
+.submenu > li:hover .sub-submenu i.fa-angle-right {
+  display: inline;
+}
+.submenu > li > a::after {
+  content: "\f107"; /* Символ стрелки вниз (FontAwesome) */
+  font-family: "FontAwesome";
+  display: inline-block;
+  margin-left: 5px;
+  transition: transform 0.3s; /* Анимация для свойства transform */
+}
+/* При наведении на li меняем направление стрелки */
+.submenu > li:hover > a::after {
+  transform: rotate(180deg);
+}
+.submenu > li:hover > a::after {
+  transform: rotate(180deg);
+}
+.selectable:active, .selectable.selected {
+  color: #FFA542;
+}
+.sub-submenu li a:active {
+  color: #FFA542;
+}
+.language a.active{
+  color: orange;
+}
+.language.inactive{
+  color: black;
+}
